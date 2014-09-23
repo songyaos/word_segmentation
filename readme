@@ -1,0 +1,6 @@
+The files are generated during the 2014 fall Natural language processing class at SFU.
+Unigram and bigram models are implemented to do Chinese word segmentation.
+You will need some Chinese vocabulary dictionary to use the code here.
+The code is implemented for practical usage, the accuarcy will not be guaranteed.
+
+
